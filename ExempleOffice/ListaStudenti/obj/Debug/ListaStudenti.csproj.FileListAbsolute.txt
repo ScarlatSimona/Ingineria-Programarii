@@ -1,0 +1,17 @@
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\bin\Debug\ListaStudenti.exe.config
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\bin\Debug\Materiale\sigla.jpg
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\bin\Debug\Materiale\students.txt
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\bin\Debug\Materiale\StudentsTemplate.xlsx
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\bin\Debug\ListaStudenti.exe
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\bin\Debug\ListaStudenti.pdb
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\obj\Debug\ListaStudenti.exe
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\ListaStudenti\obj\Debug\ListaStudenti.pdb
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\bin\Debug\ListaStudenti.exe.config
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\obj\Debug\ListaStudenti.exe
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\obj\Debug\ListaStudenti.pdb
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\bin\Debug\Materiale\sigla.jpg
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\bin\Debug\Materiale\students.txt
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\bin\Debug\Materiale\StudentsTemplate.xlsx
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\bin\Debug\ListaStudenti.exe
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\bin\Debug\ListaStudenti.pdb
+C:\Users\Mihai\Desktop\ExempleOffice\ListaStudenti\obj\Debug\ListaStudenti.csprojResolveAssemblyReference.cache

@@ -1,0 +1,50 @@
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.pdb
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.dll.manifest
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.vsto
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Factura.docx
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.xml
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.xml
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.csprojResolveAssemblyReference.cache
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.Properties.Resources.resources
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.csproj.GenerateResource.Cache
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.dll
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.pdb
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.ControlFactura.resources
+D:\Dropbox\ASE\Ingineria Programarii\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.ThisDocument.resources
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.pdb
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.dll.manifest
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\DocumentFactura.vsto
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Factura.docx
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.xml
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.ThisDocument.resources
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.ControlFactura.resources
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.Properties.Resources.resources
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.csproj.GenerateResource.Cache
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.dll
+C:\Users\Mihai\Desktop\ExempleOffice\DocumentFactura\obj\Debug\DocumentFactura.pdb
