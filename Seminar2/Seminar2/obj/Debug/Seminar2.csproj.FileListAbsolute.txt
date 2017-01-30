@@ -1,0 +1,5 @@
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar2\Seminar2\bin\Debug\Seminar2.dll.config
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar2\Seminar2\bin\Debug\Seminar2.dll
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar2\Seminar2\bin\Debug\Seminar2.pdb
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar2\Seminar2\obj\Debug\Seminar2.dll
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar2\Seminar2\obj\Debug\Seminar2.pdb
