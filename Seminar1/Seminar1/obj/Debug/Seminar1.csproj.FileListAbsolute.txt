@@ -1,0 +1,6 @@
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar1\Seminar1\bin\Debug\Seminar1.exe.config
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar1\Seminar1\bin\Debug\Seminar1.exe
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar1\Seminar1\bin\Debug\Seminar1.pdb
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar1\Seminar1\obj\Debug\Seminar1.csprojResolveAssemblyReference.cache
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar1\Seminar1\obj\Debug\Seminar1.exe
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar1\Seminar1\obj\Debug\Seminar1.pdb
