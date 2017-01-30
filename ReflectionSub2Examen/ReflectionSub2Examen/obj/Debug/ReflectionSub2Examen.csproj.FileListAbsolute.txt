@@ -1,0 +1,11 @@
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\bin\Debug\ReflectionSub2Examen.exe.config
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\bin\Debug\ReflectionSub2Examen.exe
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\bin\Debug\ReflectionSub2Examen.pdb
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\bin\Debug\Seminar2.dll
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\bin\Debug\Seminar2.pdb
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\obj\Debug\ReflectionSub2Examen.csprojResolveAssemblyReference.cache
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\obj\Debug\ReflectionSub2Examen.exe
+c:\users\mihai\documents\visual studio 2015\Projects\ReflectionSub2Examen\ReflectionSub2Examen\obj\Debug\ReflectionSub2Examen.pdb
+C:\Users\Mihai\Desktop\ReflectionSub2Examen\ReflectionSub2Examen\bin\Debug\ReflectionSub2Examen.exe.config
+C:\Users\Mihai\Desktop\ReflectionSub2Examen\ReflectionSub2Examen\obj\Debug\ReflectionSub2Examen.exe
+C:\Users\Mihai\Desktop\ReflectionSub2Examen\ReflectionSub2Examen\obj\Debug\ReflectionSub2Examen.pdb
