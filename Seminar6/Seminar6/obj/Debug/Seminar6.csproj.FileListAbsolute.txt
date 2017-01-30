@@ -1,0 +1,11 @@
+c:\users\mihai\documents\visual studio 2015\Projects\Seminar6\Seminar6\bin\Debug\Seminar6.exe.config
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\bin\Debug\Seminar6.exe
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\bin\Debug\Seminar6.pdb
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\bin\Debug\ReflectionDemo.dll
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\bin\Debug\ReflectionDemo.pdb
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\obj\Debug\Seminar6.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\obj\Debug\Seminar6.Form1.resources
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\obj\Debug\Seminar6.Properties.Resources.resources
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\obj\Debug\Seminar6.csproj.GenerateResource.Cache
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\obj\Debug\Seminar6.exe
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar6\Seminar6\obj\Debug\Seminar6.pdb

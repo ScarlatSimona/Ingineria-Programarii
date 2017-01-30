@@ -1,0 +1,7 @@
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\bin\Debug\Seminar3.dll.config
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\bin\Debug\Seminar3.dll
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\bin\Debug\Seminar3.pdb
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\obj\Debug\Seminar3.Form1.resources
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.GenerateResource.Cache
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\obj\Debug\Seminar3.dll
+C:\Users\Mihai\Documents\Visual Studio 2015\Projects\Seminar3\Seminar3\obj\Debug\Seminar3.pdb
